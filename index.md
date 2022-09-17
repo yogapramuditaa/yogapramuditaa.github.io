@@ -1,35 +1,13 @@
 ## Portfolio
+---
+## Data
+### Email Checker With Python
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kevinavicenna/PrakASD-L200200183](https://github.com/yogapramuditaa/Semester-3/blob/41f9b5ce1e8ad06b86bf1f8dd8afef05dd0640e9/Tugas/Email%20Checker.py)
+<img src="images/Email.png?raw=true"/>
+
+
+### List Portofolio
+
+- [Algoritma Struktur Data](https://github.com/yogapramuditaa/Semester-3/blob/41f9b5ce1e8ad06b86bf1f8dd8afef05dd0640e9/Tugas/Email%20Checker.py)
 
 ---
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
